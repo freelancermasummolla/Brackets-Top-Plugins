@@ -4,5 +4,5 @@ List of all document of brackets plugin and also URL .
 
 More information : www.pepocoder.com
 Author : Masum Molla Alhaz
-Facebook : facebook.com/freelancermasummolla
+Facebook : www.facebook.com/freelancermasummolla
 Email: freelancermasummolla@gmail.com
